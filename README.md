@@ -26,6 +26,7 @@ Based in Nanded, Maharashtra, India.
 
 | Project | What it is |
 |---|---|
+| **[kiyaara-ecommerce](https://github.com/SangitaZare/kiyaara-ecommerce)** | Full-stack e-commerce app — storefront with cart, wishlist and checkout, a separate staff admin panel for products and orders, and an AI shopping assistant over the catalogue |
 | **[api-labs](https://github.com/SangitaZare/api-labs)** | Nine self-contained ASP.NET Core APIs, each isolating one topic — JWT handlers, Dapper vs NHibernate, Serilog to Elasticsearch, rate limiting, Docker |
 | **[auth](https://github.com/SangitaZare/auth)** | Registration, login and role-based access. JWT access tokens with rotating refresh tokens, and a data-driven navigation menu rather than a hard-coded one |
 | **[pos](https://github.com/SangitaZare/pos)** | Point-of-sale system — catalogue, cart, checkout and receipts, with a live dashboard over SignalR |
