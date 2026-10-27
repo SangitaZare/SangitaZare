@@ -4,7 +4,7 @@ Full-stack developer working mainly in **C# / ASP.NET Core** on the backend and 
 I like the parts of backend work that are easy to get wrong — authentication, real-time updates,
 clean separation between layers — and I build small, focused projects to get them right.
 
-Based in Nanded, Maharashtra, India.
+Based in Pune, Maharashtra, India.
 
 ---
 
